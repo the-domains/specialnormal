@@ -1,20 +1,4 @@
-name: Special Normal
-favicon: null
-layout_spectrum: 0.4329385331366211
-typography_spectrum: 0.9732746868394315
-title: Special Normal
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#000000'
@@ -24,6 +8,11 @@ color:
     - '#4b4956'
   brandStrength: 0.11592171830125153
   lightness: 0.32377491937950253
-  saturation: 0.44247479271143675
   rhythmicContrast: 0.9018738812301308
+  saturation: 0.44247479271143675
+cta: {}
+layout_spectrum: 0.226973
+name: Special Normal
+opengraph: {}
 purpose: []
+typography_spectrum: 0
